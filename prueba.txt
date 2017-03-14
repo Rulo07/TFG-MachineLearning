@@ -1,1 +1,3 @@
 Hi, whats up? im here using Git!
+
+Hi buddy!
